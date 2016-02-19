@@ -1,0 +1,3 @@
+[submodule "auth-oauth_frontend_mocks"]
+	path = auth-oauth_frontend_mocks
+	url = https://github.com/mercadolibre/auth-oauth_frontend_mocks.git
